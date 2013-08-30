@@ -1,4 +1,4 @@
-update=Qua 28 Ago 2013 17:33:40 BRT
+update=Qui 29 Ago 2013 18:11:44 BRT
 version=1
 last_client=eeschema
 [cvpcb]
@@ -88,3 +88,4 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=lib/o_intel
+LibName32=lib/adm695
